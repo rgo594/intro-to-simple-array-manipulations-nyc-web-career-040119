@@ -23,5 +23,5 @@ def shift_with_args(array)
 end
 
 def using_concat(a1, a2)
-  
+  #uses theconcat method to add the contents of the second array to the first
 end
