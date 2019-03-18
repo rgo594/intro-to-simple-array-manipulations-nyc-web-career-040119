@@ -43,5 +43,5 @@ def using_delete(array, string)
 end
 
 def using_delete_at(array, int)
-  #deletes the element at the index of the array that is equal to that intege
+  array.delete_at(int)
 end
