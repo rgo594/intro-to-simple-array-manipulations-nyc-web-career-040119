@@ -23,7 +23,7 @@ def shift_with_args(array)
 end
 
 def using_concat(a1, a2)
-  a1.concat a2#uses theconcat method to add the contents of the second array to the first
+  a1.concat a2 #uses theconcat method to add the contents of the second array to the first
 end
 
 def using_insert(array, element)
