@@ -29,3 +29,9 @@ end
 def using_insert(array, element)
   #it uses the insert method to add the new element to the 4th index of the array
 end
+
+def using_uniq(array)
+
+end
+
+def using_flatten(array)
