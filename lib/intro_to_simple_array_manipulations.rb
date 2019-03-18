@@ -37,3 +37,7 @@ end
 def using_flatten(array)
   #takes in an argument of an array that contains other arrays and uses the flatten method to return an array of strings
 end
+
+def using_delete(array, string)
+  
+end
