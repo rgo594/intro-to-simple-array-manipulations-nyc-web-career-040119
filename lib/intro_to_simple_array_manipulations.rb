@@ -19,7 +19,7 @@ def using_shift(array)
 end
 
 def shift_with_args(array)
-  #uses the shift method with an argument of 2 to remove and return the first 2 items from the array
+  array.shift(2)
 end
 
 def using_concat(a1, a2)
