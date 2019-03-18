@@ -27,7 +27,7 @@ def using_concat(a1, a2)
 end
 
 def using_insert(array, element)
-  #it uses the insert method to add the new element to the 4th index of the array
+  array[3].insert(element)
 end
 
 def using_uniq(array)
